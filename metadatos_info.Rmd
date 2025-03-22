@@ -1,0 +1,20 @@
+---
+title: "metadatos_info"
+author: "Alejandro Parra"
+date: "2025-03-22"
+output: html_document
+---
+Este archivo contiene los metadatos para las muestras utilizadas en el análisis de metabolómica.
+ Las columnas representan las características y detalles clave de cada muestra.
+
+ Columnas:
+ 1. Source Name: Organismo de las muestras (Homo sapiens).
+ 2. Characteristics[Organism]: Descripción del organismo.
+ 3. Term Source REF: Referencia fuente del término (URI).
+ 4. Term Accession Number: Número de acceso del término.
+ 5. Characteristics[Organism part]: Parte del organismo (PC-3M cell).
+ 6. Characteristics[Variant]: Variantes genéticas, si aplica.
+ 7. Characteristics[Sample type]: Tipo de muestra (experimental sample).
+ 8. Sample Name: Nombre de la muestra (identificador único).
+ 9. Factor Value[Treatment]: Tratamiento aplicado (siCtrl, siKMT9a).
+ 10. Protocol REF: Referencia del protocolo.
