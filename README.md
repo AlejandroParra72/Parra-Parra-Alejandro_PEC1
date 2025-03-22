@@ -3,8 +3,9 @@ El análisis incluye la exploración de datos mediante PCA, clustering y la iden
 
 ## Contenido del repositorio:
 - `Parra-Parra-Alejandro_PEC1_informe.pdf`: Informe detallado en formato PDF con el análisis completo.
-- `Metabolomics_analysis.R`: Código R para la exploración y análisis de los datos.
+- `PEC1_código.R`: Código R para la exploración y análisis de los datos.
 - `objeto_SE_norm.Rda`: Objeto de clase `SummarizedExperiment` que contiene los datos y metadatos.
-- `data/data_file.txt`: Los datos en formato texto.
-- `metadata/metadata.txt`: Los metadatos asociados.
+- `m_MTBLS2452_metabolite_profiling_mass_spectrometry_v2_maf.tsv`: Los datos metabólicos
+- `s_MTBLS2452.txt`: Los metadatos asociados.
+- `metadatos_info.Rmd`: Comentarios metadatos
 
